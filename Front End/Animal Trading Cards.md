@@ -13,7 +13,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 
 0. Download and unzip [`fend-animal-trading-cards-master.zip`](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip). Inside, you'll find `card.html`, `styles.css`, `clownfish.jpg`, and the `design-prototype.pdf`.
 1. Next, add the proper CSS to `styles.css` to recreate the design prototype. You’ll need to modify `card.html` to include `attributes` and use `selectors` to specify the elements you want to style. Also, make sure to link to your stylesheet in `card.html` or else your CSS will not be applied to your webpage.
-2. The CSS should apply these styles to match the design prototype:
+2. The CSS should apply these styles to match the design prototype according to our [styleguide](https://udacity.github.io/frontend-nanodegree-styleguide/css.html):
     - italicized text for the animal's interesting fact
     - italicized text for the animal's list items
     - no dots for the animal's list items
