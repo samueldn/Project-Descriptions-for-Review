@@ -1,5 +1,5 @@
 # Project Overview
-This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making the structure of a music app using intents and empty activities.
+This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making an inventory app for a small business using an SQL table and a number of CRUD commands. 
 
 The goal is to design and create the structure of an Inventory App which would allow a store to keep track of its inventory of products. The app will need to store information about price, quantity available, supplier, and a picture of the product. It will also need to allow the user to track sales and shipments and make it easy for the user to order more from the listed supplier.
 
