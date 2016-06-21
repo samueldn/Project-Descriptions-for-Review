@@ -1,5 +1,5 @@
 # Project Overview
-This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making the structure of a music app using intents and empty activities.
+This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making a habit tracking app using an SQLite table. 
 
 The goal is to design and create the structure of a Habit Tracking app which would allow a user to store and track their habits over time.
 
