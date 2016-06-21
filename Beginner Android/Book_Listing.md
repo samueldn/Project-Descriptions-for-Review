@@ -1,5 +1,5 @@
 # Project Overview 
-This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making the structure of a music app using intents and empty activities.
+This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making a book listing app using an API query and a ListView.
 
 The goal is to design and create the structure of a Book Listing app which would allow a user to get a list of published books on a given topic. You will be using the google books api in order to fetch results and display them to the user.
 
