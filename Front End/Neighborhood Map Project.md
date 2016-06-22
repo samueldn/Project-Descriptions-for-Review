@@ -9,7 +9,7 @@ Please refer to the reviewer tips column in the [rubric](https://review.udacity.
 
 ## How will I complete this Project?
 
-Check out the Neighborhood Map[Project Rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
+Check out the Neighborhood Map [Project Rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
 
 1. Review our course <a href="https://www.udacity.com/course/ud989-nd" target="_blank">JavaScript Design Patterns</a>.
 2. Download the <a href="http://knockoutjs.com/" target="_blank">Knockout framework</a>. Knockout must be used to handle list, filter, and any other information on the page that is subject to changing state. Things that should not be handled by knockout: anything the map api is used for, tracking markers, making the map, refreshing the map.
