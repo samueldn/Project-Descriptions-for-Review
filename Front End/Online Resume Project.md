@@ -76,7 +76,7 @@ Each string has a title that describes how it should be used. For instance, `HTM
 ### Your process:
 The resume has four distinct sections: work, education, projects and a header with biographical information. You’ll need to:
 
-1. Build four javaScript objects, each one representing a different resume section. The objects that you create need to follow the schema below exactly. Property names are case-sensitive. 
+1. Build four javaScript objects, each one representing a different resume section. The objects that you create need to follow the schema below exactly. Property names are case-sensitive. Make sure your javaScript objects are formatted correctly using [jshint.com](http://jshint.com/) .
 
 * `bio` contains:
         
