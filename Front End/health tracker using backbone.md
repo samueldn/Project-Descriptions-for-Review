@@ -22,6 +22,7 @@ It's important that web developers have experience with multiple organizational 
 # Project Details
 ## How will I complete this Project?
 Review the Health Tracker [Project Rubric](https://review.udacity.com/#!/projects/5030258562/rubric).
+
 1. Review our <a href="https://www.udacity.com/course/ud990-nd" target="_blank">Backbone course</a>.
 2. Write code required to get a project started
 3. Write code required to add a search bar to the application
