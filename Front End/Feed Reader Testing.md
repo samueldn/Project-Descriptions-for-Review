@@ -28,6 +28,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 
 ## Project Details
 ## How will I complete this project?
+Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
 1. Take the JavaScript Testing [course](https://www.udacity.com/course/ud549)
 2. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
@@ -46,6 +47,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 15. Write a test suite named "New Feed Selection".
 16. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 17. When complete - all of your tests should pass. 
+18. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
 ## Useful Links
 -[Udacity Front End Nanodegree JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
