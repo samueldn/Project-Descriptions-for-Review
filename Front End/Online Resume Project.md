@@ -31,7 +31,7 @@ Once you've mastered the skills of a front end web developer you'll want to make
 The resume you build will not only help you build important skills, but will also make it easy to show employers why you’re perfect for the job. As you progress through this nanodegree you can update this resume with your new skills and projects.
 
 ## What will I Learn?
-You will learn basic JavaScript syntax, which includes manipulating data types (like JSON), building loops and creating functions. At the same time, you’ll learn some simple jQuery DOM manipulation methods to build your resume the moment a user opens your website.
+You will learn basic JavaScript syntax, which includes manipulating data types (like javaScript objects), building loops and creating functions. At the same time, you’ll learn some simple jQuery DOM manipulation methods to build your resume the moment a user opens your website.
 
 ## How does this Help my Career?
 * It's a resume. Resumes help you get jobs.
@@ -41,7 +41,7 @@ You will learn basic JavaScript syntax, which includes manipulating data types (
 
 # Project Details
 ## How do I complete this project?
-1. In this project you will store your resume data in four javaScript objects according to the schema given below. As is often the case when leveraging an API the objects must follow the schema exactly. All properties must be present and the names must match those in the schema (note that object and property names are case-sensitive). All property values should be of the data-type given for the property in the schema. For example if the data-type is given as an array, it is not acceptable to use a string as a value for that property.
+1. In this project you will store your resume data in four javaScript objects according to the schema given below. As is often the case when leveraging an API, the objects must follow the schema exactly. All properties must be present and and have real or fake values. Tthe names must match those in the schema (note that object and property names are case-sensitive). All property values should be of the data-type given for the property in the schema. For example if the data-type is given as an array, it is not acceptable to use a string as a value for that property.
 2. Once you've created your javaScript objects, you will write the code needed to display all of the  resume data contained within these objects in your resume.
 3. All of the HTML code needed to build the resume is stored in `js/helper.js` variables. The variable names indicate their function. You will replace substrings in these variable string values such as `%data%` and `#` with the data in your javaScript objects, and append or prepend the formatted result to your resume in the appropriate location. 
 4. If you need a refresher on JavaScript syntax, go to the [Javascript Basics course](https://classroom.udacity.com/courses/ud804); if you would like to understand how this project is manipulating and traversing the DOM, check out [Intro to jQuery](https://www.udacity.com/course/ud245-nd).
@@ -76,7 +76,7 @@ Each string has a title that describes how it should be used. For instance, `HTM
 ### Your process:
 The resume has four distinct sections: work, education, projects and a header with biographical information. You’ll need to:
 
-1. Build four JSON objects, each one representing a different resume section. The objects that you create need to follow the schema below exactly. Property names are case-sensitive. Make sure your JSON objects are formatted correctly using JSONlint.com.
+1. Build four javaScript objects, each one representing a different resume section. The objects that you create need to follow the schema below exactly. Property names are case-sensitive. 
 
 * `bio` contains:
         
@@ -129,10 +129,10 @@ The resume has four distinct sections: work, education, projects and a header wi
                   display: function
 
 
-2. Iterate through each JSON object and append its information to index.html in the correct section.
+2. Iterate through each javaScript object and append its information to index.html in the correct section.
  * First off, you’ll be using jQuery’s `selector.append()` and `selector.prepend()` functions to modify index.html. `selector.append()` makes an element appear at the end of a selected section. `selector.prepend()` makes an element appear at the beginning of a selected section.
    * Pay close attention to the ids of the `<div>`s in index.html and the HTML snippets in helper.js. They’ll be very useful as jQuery selectors for `selector.append()` and `selector.prepend()`
-* You’ll also be using the JavaScript method `string.replace(old, new)` to swap out all the placeholder text (e.g. `%data%`) for data from your resume JSON objects.
+* You’ll also be using the JavaScript method `string.replace(old, new)` to swap out all the placeholder text (e.g. `%data%`) for data from your resume javaScript objects.
 * Here’s an example of some code that would add the location of one your companies to the page:
    * `var formattedLocation = HTMLworkLocation.replace("%data%", work.jobs[job].location);`
    * `$(".work-entry:last").append(formattedLocation);`
