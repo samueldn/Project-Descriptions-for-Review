@@ -1,4 +1,4 @@
-## [Project Rubric](https://review.udacity.com/#!/projects/7428479271/rubric)
+## Animal Trading Cards Overview
 
 ### Project Overview
 
@@ -21,8 +21,6 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
     - border around the animal's information
     - spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
 3. When you're done matching your webpage to the design prototype, swap in an image and information for your favorite animal. For the image, you will want use an image with a `width` of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up being squished or distorted. Later, we’ll talk about how you can fix this problem using responsive images. Also, don't forget to change the image's `alt` attribute to the name of your animal. So, `alt="clownfish"` should be replaced with `alt="name-of-your-animal"`.
-
----
 
 ## Supporting Materials
 
