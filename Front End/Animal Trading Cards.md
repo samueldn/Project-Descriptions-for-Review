@@ -10,7 +10,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 
 ### Project Instructions
 
-* Review the Animal Trading Cards [project rubric](https://review.udacity.com/#!/projects/7428479271/rubric).
+Review the Animal Trading Cards [project rubric](https://review.udacity.com/#!/projects/7428479271/rubric).
 
 1. Download and unzip [fend-animal-trading-cards-master.zip](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip) from the downloadables section. Inside, you'll find `card.html`, `styles.css`, `placeholder.png`, and the `design-prototype.png`.
 2. Next, open `card.html` and replace the placeholder image and information with your favorite animal's image and information. For the image, you will want to use an image with a `width` of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up  squished or distorted. Later, we’ll talk about how you can fix this problem using [responsive images](https://classroom.udacity.com/nanodegrees/nd001/parts/0011345404/modules/273669854375462/lessons/3532609279/concepts/39168787570923). Also, don't forget to change the image's `alt` attribute to the name of your animal. So, `alt="name-of-your-animal"` should be replaced with the actual name of your animal.
