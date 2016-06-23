@@ -24,13 +24,11 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 
 ---
 
-### Supporting Materials
+## Supporting Materials
 
 - [fend-animal-trading-cards-master.zip](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip)
 
----
-
-### Project Submission
+## Project Submission
 
 * Once your satisfied with your result, check your project against the [rubric](https://review.udacity.com/#!/projects/7428479271/rubric) to make sure you've satisfied all requirements.
 * Create a zip file containing `card.html`, `styles.css`, and your new animal image (unless you linked to an image hosted online).
