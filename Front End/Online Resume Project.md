@@ -128,7 +128,7 @@ The resume has four distinct sections: work, education, projects and a header wi
                   dates: string (works with a hyphen between them)
                   description: string
                   images: array with string urls
-                  display: function
+            display: function
 
 
 2. Iterate through each javaScript object and append its information to index.html in the correct section.
