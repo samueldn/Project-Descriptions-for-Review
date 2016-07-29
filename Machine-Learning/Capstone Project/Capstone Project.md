@@ -3,7 +3,7 @@
 
 ## Capstone Project Overview
 
-In this capstone project, you will leverage what you?ve learned throughout the Nanodegree program to solve a problem of your choice by applying machine learning algorithms and techniques. You will first **define** the problem you want to solve and investigate potential solutions and performance metrics. Next, you will **analyze** the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it. You will then **implement** your algorithms and metrics of choice, documenting the preprocessing, refinement, and postprocessing steps along the way. Afterwards, you will collect **results** about the performance of the models used, visualize significant quantities, and validate/justify these values. Finally, you will construct **conclusions** about your results, and discuss whether your implementation adequately solves the problem.
+In this capstone project, you will leverage what you've learned throughout the Nanodegree program to solve a problem of your choice by applying machine learning algorithms and techniques. You will first **define** the problem you want to solve and investigate potential solutions and performance metrics. Next, you will **analyze** the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it. You will then **implement** your algorithms and metrics of choice, documenting the preprocessing, refinement, and postprocessing steps along the way. Afterwards, you will collect **results** about the performance of the models used, visualize significant quantities, and validate/justify these values. Finally, you will construct **conclusions** about your results, and discuss whether your implementation adequately solves the problem.
 
 ## Capstone Project Highlights
 This project is designed to prepare you for delivering a polished, end-to-end solution report of a real-world problem in a field of interest. When developing new technology, or deriving adaptations of previous technology, properly documenting your process is critical for both validating and replicating your results.
@@ -16,7 +16,16 @@ Things you will learn by completing this project:
 
 ## Capstone Description
 
-Think about a problem domain that you are passionate about, such as healthcare, engineering, finance, robotics, marketing, bio-informatics, or something that excites you. Then, choose an existing problem within that domain which you could solve by applying machine learning algorithms and techniques. Be sure that you have collected all of the resources needed (such as data sets) to complete this project, and make the appropriate citations wherever necessary in your report.
+Among the following problem domains, choose one that you are passionate about or one that excites you. Then, choose an existing problem within that domain which you could solve by applying machine learning algorithms and techniques. Be sure that you have collected all of the resources needed (such as data sets) to complete this project, and make the appropriate citations wherever necessary in your report.
+
+- [Deep Learning](https://docs.google.com/document/d/1L11EjK0uObqjaBhHNcVPxeyIripGHSUaoEWGypuuVtk/pub)
+- [Robot Motion Planning](https://docs.google.com/document/d/1ZFCH6jS3A5At7_v5IUM5OpAXJYiutFuSIjTzV_E-vdE/pub)
+- [Healthcare](https://docs.google.com/document/d/1WzurKKa9AX2DnOH7KiB38mvozdOSemfkGpex8hdTy8c/pub)
+- [Computer Vision](https://docs.google.com/document/d/1y-XfjkPFgUQxFIQ9bBncUSjs4HOf5E-45FrLYNBsZb4/pub)
+- [Education](https://docs.google.com/document/d/1vjerjRQnWs1kLbZagDYT6rNqiwAG23Yj45oUY88IAxI/pub)
+- [Investment and Trading](https://docs.google.com/document/d/1ycGeb1QYKATG6jvz74SAMqxrlek9Ed4RYrzWNhWS-0Q/pub)
+
+In addition, you may find challenges and datasets on platforms such as [Kaggle](http://kaggle.com), [Devpost](http://devpost.com), etc. helpful for discovering a particular problem you may be interested in solving. In many cases, some of the requirements for this project are already defined for you when choosing from these platforms. **Your capstone project should come from these resources, or one of the six problem domains listed above!** 
 
 For whichever application area or problem you ultimately investigate, there are five major stages to this capstone project which you will move through and subsequently document. Each stage plays a significant role in the development life cycle of beginning with a problem definition and finishing with a polished, working solution. As you make your way through developing your project, be sure that you are also working on a rough draft of your project report, as it is the most important aspect to your submission! 
 
@@ -50,21 +59,6 @@ Included in the project files for the Capstone are three example reports that we
 [Our third example report](https://github.com/udacity/machine-learning/blob/master/projects/capstone/report-example-3.pdf) comes from graduate Naoki Shibuya, who took advantage of the pre-curated robot motion planning [*"Plot and Navigate a Virtual Maze"* project](https://docs.google.com/document/d/1ZFCH6jS3A5At7_v5IUM5OpAXJYiutFuSIjTzV_E-vdE/pub). Pay special attention to the emphasis Naoki places on discussing the methodology and results: Projects relying on technical implementations require valuable observations and visualizations of how the solution performs under various circumstances and constraints. 
 
 Each example report given has many desirable qualities we expect from students when completing the Machine Learning Capstone project. Once you begin writing your project report for which ever problem domain you choose, be sure to reference these examples whenever necessary!
-
-## Capstone Project Suggestions
-If at this point you have not been able to identify an application area or problem you feel passionate about, that?s okay! We have compiled a small list of project suggestions from different application areas which can be used to inspire your own ideas. Each project suggestion has its own series of instructions and guidelines, and a few include a supplementary course for prerequisite material. Before beginning one of the projects below, be sure to thoroughly read the included project description and report format in the respective link.
-
-In addition, depending on your problem domain, you may find challenges and datasets on platforms such as [Kaggle](http://kaggle.com), [Devpost](http://devpost.com), etc. helpful for discovering a particular problem you may be interested in solving. In many cases, some of the requirements for this project are already defined for you when choosing from these platforms.  
-
-**You must provide the necessary citations if your problem comes from one of these sources.**
-### Application Areas
-
-- [Deep Learning](https://docs.google.com/document/d/1L11EjK0uObqjaBhHNcVPxeyIripGHSUaoEWGypuuVtk/pub)
-- [Robot Motion Planning](https://docs.google.com/document/d/1ZFCH6jS3A5At7_v5IUM5OpAXJYiutFuSIjTzV_E-vdE/pub)
-- [Healthcare](https://docs.google.com/document/d/1WzurKKa9AX2DnOH7KiB38mvozdOSemfkGpex8hdTy8c/pub)
-- [Computer Vision](https://docs.google.com/document/d/1y-XfjkPFgUQxFIQ9bBncUSjs4HOf5E-45FrLYNBsZb4/pub)
-- [Education](https://docs.google.com/document/d/1vjerjRQnWs1kLbZagDYT6rNqiwAG23Yj45oUY88IAxI/pub)
-- [Investment and Trading](https://docs.google.com/document/d/1ycGeb1QYKATG6jvz74SAMqxrlek9Ed4RYrzWNhWS-0Q/pub)
 
 ## Submitting the Project
 
