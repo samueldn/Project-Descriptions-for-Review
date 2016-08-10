@@ -16,7 +16,8 @@ Things you will learn by completing this project:
 
 ## Capstone Description
 
-Think about a technical field or domain that you are passionate about, such as robotics, virtual reality, finance, natural language processing, or even artificial intelligence. Then, choose an existing problem within that domain that you are interested in which you could solve by applying machine learning algorithms and techniques. Be sure that you have collected all of the resources needed (such as data sets) to complete this project, and make the appropriate citations wherever necessary in your report. Below are a few suggested problem areas you could explore if you are unsure what your passion is:
+
+Think about a technical field or domain that you are passionate about, such as robotics, virtual reality, finance, natural language processing, or even artificial intelligence (the possibilities are endless!). Then, choose an existing problem within that domain that you are interested in which you could solve by applying machine learning algorithms and techniques. Be sure that you have collected all of the resources needed (such as data sets) to complete this project, and make the appropriate citations wherever necessary in your report. Below are a few suggested problem areas you could explore if you are unsure what your passion is:
 
 - [Deep Learning](https://docs.google.com/document/d/1L11EjK0uObqjaBhHNcVPxeyIripGHSUaoEWGypuuVtk/pub)
 - [Robot Motion Planning](https://docs.google.com/document/d/1ZFCH6jS3A5At7_v5IUM5OpAXJYiutFuSIjTzV_E-vdE/pub)
@@ -27,7 +28,7 @@ Think about a technical field or domain that you are passionate about, such as r
 
 In addition, you may find a technical domain (along with the problem and dataset) as *competitions* on platforms such as [Kaggle](http://kaggle.com), or [Devpost](http://devpost.com). This can be helpful for discovering a particular problem you may be interested in solving as an alternative to the suggested problem areas above. In many cases, some of the requirements for the capstone project are already defined for you when choosing from these platforms. 
 
-_**Note:** Students that have begun working on their project and chosen a problem domain that does not come from the suggestions above have until **September 30th, 2016** to complete their project. After this date, all students will be required to limit their choice of problem domain to only those suggested above._
+_**Note:** Students that have begun working on their project and chosen a problem domain that does not come from the six capstone suggestions, Kaggle, or Devpost have until **September 30th, 2016** to complete their project. After this date, all students will be required to limit their choice of problem domain to only those suggestions._
 
 For whichever application area or problem you ultimately investigate, there are five major stages to this capstone project which you will move through and subsequently document. Each stage plays a significant role in the development life cycle of beginning with a problem definition and finishing with a polished, working solution. As you make your way through developing your project, be sure that you are also working on a rough draft of your project report, as it is the most important aspect to your submission! 
 
