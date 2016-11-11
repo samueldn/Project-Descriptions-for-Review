@@ -61,12 +61,12 @@ Use the [project rubric](https://review.udacity.com/#!/rubrics/186/view) to revi
 
 ## Submission Template
 
-Use the submission template at the bottom of this section to submit your project.  After filling it out, save it as a PDF and submit the PDF in the next section.
+Use the [submission template](https://d17h27t6h515a5.cloudfront.net/topher/2016/October/581389d2_submissiontemplate/submissiontemplate.docx) at the bottom of this section to submit your project.  After filling it out, save it as a PDF and submit the PDF in the next section.
 
 ## Data
-*p1-customers.xlsx* - This dataset includes the following information on about 2,300 customers. **Important**: You should build your model on this dataset and not *p1-mailinglist.xlsx*. 
+*[p1-customers.xlsx](https://d17h27t6h515a5.cloudfront.net/topher/2016/July/578d24c0_p1-customers/p1-customers.xlsx)* - This dataset includes the following information on about 2,300 customers. **Important**: You should build your model on this dataset and not *p1-mailinglist.xlsx*. 
 
-*p1-mailinglist.xlsx* - This dataset is the 250 customers that you need to predict sales. This is the list of customers that the company would send a catalog to. Use this dataset to estimate how much revenue the company can expect if they send out the catalog. It has the same fields as P1_Customers.xlsx, but includes two additional variables. 	
+*[p1-mailinglist.xlsx](https://d17h27t6h515a5.cloudfront.net/topher/2016/July/5790023a_p1-mailinglist/p1-mailinglist.csv)* - This dataset is the 250 customers that you need to predict sales. This is the list of customers that the company would send a catalog to. Use this dataset to estimate how much revenue the company can expect if they send out the catalog. It has the same fields as P1_Customers.xlsx, but includes two additional variables. 	
 * Score_No: The probability that the customer WILL NOT respond to the catalog and not make a purchase.
 * Score_Yes: The probability that the customer WILL respond to the catalog and make a purchase.
 
