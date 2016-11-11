@@ -15,7 +15,7 @@ This project uses skills learned throughout the "Data Visualization in Tableauâ€
 * Go through the course
 * Apply the skills learned in the course to complete the project outline in the project details section. 
 * Use our guidelines and rubric to help build your project.
-* When you're ready, submit it to us for review using the submission template found in the supporting materials section.
+* When you're ready, submit it to us for review using the [submission template](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581904cb_submissiontemplate/submissiontemplate.docx) found in the supporting materials section.
 
 #### Skills Required
 
@@ -75,3 +75,18 @@ Include interactivity in dashboards and stories:
 
 ### Submission Format
 Your submission should be in the form of a PDF file accompanied with Tableau workbook files
+
+### Review
+
+Use the [project rubric](https://review.udacity.com/#!/rubrics/329/view) to review your project. If you are happy with your submission, then you're ready to submit your project. If you see room for improvement, keep working to improve your project.
+
+## Data
+
+The Lending Club data includes three files found at the bottom of the page:  
+
+*[LoanStats3a](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57e9e5c8_loanstats3a/loanstats3a.csv)* - This shows the data for loans accepted by Lending Club.
+
+*[RejectStatsA](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57e9e5d9_rejectstatsa/rejectstatsa.csv)* - This shows the data for loans rejected by Lending Club.
+
+*[LCData Dictionary](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57e9e5be_lcdatadictionary/lcdatadictionary.xlsx)* - This explains what each of the variables in the both datasets represents. Use this to understand the variables as you explore the data to find answers to the questions.
+
